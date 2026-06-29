@@ -38,7 +38,6 @@ public:
 
             ans = max({ans, dp0, dp1, dp2});
         }
-
         return ans;
     }
 
