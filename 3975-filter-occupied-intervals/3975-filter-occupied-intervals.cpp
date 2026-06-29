@@ -29,7 +29,6 @@ public:
                     ans.push_back({freeEnd + 1, (int)r});
             }
         }
-
         return ans;
     }
 };
