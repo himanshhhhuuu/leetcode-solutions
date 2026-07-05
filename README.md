@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/himanshhhhuuu/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/himanshhhhuuu/leetcode-solutions/tree/master/0011-container-with-most-water) |
+| [1301-number-of-paths-with-max-score](https://github.com/himanshhhhuuu/leetcode-solutions/tree/master/1301-number-of-paths-with-max-score) |
 ## Two Pointers
 |  |
 | ------- |
@@ -47,4 +48,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/himanshhhhuuu/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1301-number-of-paths-with-max-score](https://github.com/himanshhhhuuu/leetcode-solutions/tree/master/1301-number-of-paths-with-max-score) |
+## Matrix
+|  |
+| ------- |
+| [1301-number-of-paths-with-max-score](https://github.com/himanshhhhuuu/leetcode-solutions/tree/master/1301-number-of-paths-with-max-score) |
 <!---LeetCode Topics End-->
