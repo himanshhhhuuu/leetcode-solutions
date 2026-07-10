@@ -93,4 +93,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/himanshhhhuuu/leetcode-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+## Database
+|  |
+| ------- |
+| [0176-second-highest-salary](https://github.com/himanshhhhuuu/leetcode-solutions/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
