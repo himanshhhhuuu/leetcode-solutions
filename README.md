@@ -22,12 +22,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/himanshhhhuuu/leetcode-solutions/tree/master/0006-zigzag-conversion) |
 | [0012-integer-to-roman](https://github.com/himanshhhhuuu/leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/himanshhhhuuu/leetcode-solutions/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/himanshhhhuuu/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/himanshhhhuuu/leetcode-solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Array
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/himanshhhhuuu/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/himanshhhhuuu/leetcode-solutions/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/himanshhhhuuu/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [1288-remove-covered-intervals](https://github.com/himanshhhhuuu/leetcode-solutions/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/himanshhhhuuu/leetcode-solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/himanshhhhuuu/leetcode-solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -107,4 +109,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2685-count-the-number-of-complete-components](https://github.com/himanshhhhuuu/leetcode-solutions/tree/master/2685-count-the-number-of-complete-components) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/himanshhhhuuu/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
